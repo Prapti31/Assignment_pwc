@@ -1,0 +1,13 @@
+package com.day1;
+
+public class Assign4 {
+	public static void main(String[] args) {
+		int intVal=100;
+		byte byteVal=(byte)intVal;
+		byte max=127;
+		byte min=-128;
+		int sum=max+min;
+		System.out.println("Sum="+max);
+		
+	}
+}
